@@ -1,2 +1,2 @@
-# Pong-Turma da terça-feira
+# Pong-Grupo da terça feira
 Jogo do Pong no Java Script da Turma F ... 
